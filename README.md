@@ -6,6 +6,8 @@ I want Bubbles to be a place where people can find conversations they actually w
 
 This README walks through the product, how the main systems fit together, the development challenges, and what has been tested. The diagrams show the broad design; the application source and detailed internal documentation remain private while the product develops.
 
+Here is a video walkthrough of the project demonstration!
+
 ## Explore the project
 
 - [The idea and design](#1-the-idea-and-design)
