@@ -8,6 +8,8 @@ This README walks through the product, how the main systems fit together, the de
 
 Here is a video walkthrough of the project demonstration!
 
+https://youtu.be/p5OGBDskJ4k
+
 ## Explore the project
 
 - [The idea and design](#1-the-idea-and-design)
